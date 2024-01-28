@@ -1,0 +1,13 @@
+{
+  "name": "@bunos/registry",
+  "version": "0.0.1",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "^1.0.4",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "hono": "^3.12.8"
+  }
+}
